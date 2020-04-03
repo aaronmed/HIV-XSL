@@ -1,6 +1,6 @@
 # World cases HIV
 
-XSL Project from a Open Data about estimated cases of HIV on the World 
+XSL Project from an Open Data source about estimated cases of HIV on the World 
 
 ## Built With
 * Netbeans - IDE
