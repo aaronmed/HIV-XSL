@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<hiv xmlns="https://www.artiigo.com"
-xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation = "https://www.artiigo.com hivdata.xsd">-->
-
-<hiv>
+<hiv xmlns:x="https://www.artiigo.com"
+     xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation = "https://www.artiigo.com hivdata.xsd">
     <data>
         <country>Afghanistan</country>
         <year>2000</year>
