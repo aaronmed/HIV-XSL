@@ -4,9 +4,9 @@
     <xsl:output method="xml"/>
 
     <xsl:template match="/">
-          <data>
-                <xsl:call-template name="hivdata"/>
-            </data>
+        <hiv>
+            <xsl:call-template name="hivdata"/>
+        </hiv>
     </xsl:template>
     
     <xsl:template name="hivdata">

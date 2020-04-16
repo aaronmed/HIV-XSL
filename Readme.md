@@ -7,7 +7,7 @@ XSL Project from a Open Data about estimated cases of HIV on the World
 
 ## Resources
 * Online XML of estimated cases of HIV on the World:
-https://apps.who.int/gho/athena/data/GHO/HIV_0000000001.xml?profile=simple&filter=COUNTRY:*;REGION:*
+https://apps.who.int/gho/athena/data/GHO/HIV_0000000001.xml?profile=simple&filter=COUNTRY:*;REGION:%2A;
 
 ## Acknowledgments
 
