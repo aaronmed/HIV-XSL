@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "hiv-data-eae21"
+    "default": "hiv-data-eae21",
+    "__comment": "test"
   }
 }
+
